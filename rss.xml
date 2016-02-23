@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bigmonarch]]></title>
         <description><![CDATA[bigmonarch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bigmonarch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 14:28:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 14:32:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bigmonarch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Earlier this year, I attended an eye-opening conference for entrepreneurs in Chicago. The day was chock full of speakers who had founded some of the most successful new enterprises of the last decade, not to mention branding and marketing experts from some of the biggest names in the business. There was a variety of great business advice being doled out, yet all these leaders agreed on one central point.</p>]]></description>
-            <link>undefined45da177b-3be9-4136-8228-f334333c52df/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/631c56bd-80ba-4f93-a648-04a805318254.tiff">]]></description>
+            <link>https://thegrid.ai/bigmonarch/45da177b-3be9-4136-8228-f334333c52df/index.html</link>
             <guid isPermaLink="false">45da177b-3be9-4136-8228-f334333c52df</guid>
-            <pubDate>Tue, 23 Feb 2016 14:28:47 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 14:31:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
